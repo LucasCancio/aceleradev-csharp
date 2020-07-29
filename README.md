@@ -4,6 +4,10 @@
 <h1 align="center">Aceleração C#</h1>
 <h4 align="center">Programa AceleraDev C#, patrocinado pela Stone</h4>
 
+<p align="center">
+<img width="600" src="assets/certificado.png">
+</p>
+
 ## 🤔 O que é o AceleraDev?
 
 Criado pela Codenation, é um programa de capacitação gratuito para profissionais de tecnologia. 
@@ -12,10 +16,6 @@ Durante 10 semanas, devs e cientistas de dados têm acesso a desafios, conteúdo
 ## ⚙ Como funciona? 
 
 O programa é dividido em módulos semanais dentro da nossa plataforma. Os módulos contam com aulas, conteúdos na plataforma, desafios e desenvolvimento do projeto prático ao longo das semanas do programa
-
-<p align="center">
-<img width="500" src="assets/certificado.png">
-</p>
 
 ## 📚 Módulos
 
