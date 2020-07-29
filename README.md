@@ -1,8 +1,8 @@
 <p align="center">
-<img width="200" src="assets/codenation-logo.png">
+<img width="400" src="assets/codenation-logo.png">
 </p>
 <h1 align="center">Aceleração C#</h1>
-<h4 align="center">Programa AceleraDev, patrocinado pela Stone</h4>
+<h4 align="center">Programa AceleraDev C#, patrocinado pela Stone</h4>
 
 ## 🤔 O que é o AceleraDev?
 
@@ -12,6 +12,10 @@ Durante 10 semanas, devs e cientistas de dados têm acesso a desafios, conteúdo
 ## ⚙ Como funciona? 
 
 O programa é dividido em módulos semanais dentro da nossa plataforma. Os módulos contam com aulas, conteúdos na plataforma, desafios e desenvolvimento do projeto prático ao longo das semanas do programa
+
+<p align="center">
+<img width="500" src="assets/certificado.png">
+</p>
 
 ## 📚 Módulos
 
@@ -28,14 +32,16 @@ O programa é dividido em módulos semanais dentro da nossa plataforma. Os módu
 
 ## 🚀 Desafios
 
-- [Fibonacci]()
-- [Backend para gerenciar times de futebol]()
-- [Criptografia de Júlio César]()
-- [Os dez maiores estados brasileiros em extensão territorial]()
-- [Gerador de frases do Monty Python]()
-- [ORM .Net]()
-- [Manipulação de dados através de serviços]()
-- [Manipulação de dados com C# através de Web API]()
-- [Segurança de acesso para Web API com JSON Web Token]()
+- [Fibonacci](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-0)
+- [Backend para gerenciar times de futebol](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-1)
+- [Criptografia de Júlio César](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-2)
+- [Os dez maiores estados brasileiros em extensão territorial](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-3)
+- [Gerador de frases do Monty Python](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-5)
+- [ORM .Net](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-7)
+- [Manipulação de dados através de serviços](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-8)
+- [Manipulação de dados com C# através de Web API](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-9)
+- [Segurança de acesso para Web API com JSON Web Token](https://github.com/LucasCancio/aceleradev-csharp/tree/master/csharp-10)
+
+## 💻 [Projeto prático](https://github.com/LucasCancio/codenation-cadeoerro)
 
 ## ❤ Agradeço muito a [Codenation](https://www.codenation.dev/) e a [Stone](https://www.stone.com.br/)
