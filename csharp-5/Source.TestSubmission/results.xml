@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites time="1.066" tests="7" failures="0">
+  <testsuite id="0" name="Source.TestSubmission.dll" tests="7" failures="0" time="1.066">
+    <testcase classname="Codenation.Challenge.QuoteControllerTest" name="Codenation.Challenge.QuoteControllerTest.Should_Returns_Not_Found_When_Get_Any_Quote_By_Non_Exists_Actor" time="0.5110000" />
+    <testcase classname="Codenation.Challenge.QuoteControllerTest" name="Codenation.Challenge.QuoteControllerTest.Should_Returns_Random_Quote_When_Get_Any" time="0.0070000" />
+    <testcase classname="Codenation.Challenge.QuoteControllerTest" name="Codenation.Challenge.QuoteControllerTest.Should_Returns_Random_Quote_When_Get_Any_By_Actor" time="0.0030000" />
+    <testcase classname="Codenation.Challenge.QuoteServiceTest" name="Codenation.Challenge.QuoteServiceTest.Should_Returns_Any_Quote_When_Get_Any_Quote" time="0.5140000" />
+    <testcase classname="Codenation.Challenge.QuoteServiceTest" name="Codenation.Challenge.QuoteServiceTest.Should_Returns_Null_When_Get_Any_Quote_By_Non_Exists_Actor" time="0.0050000" />
+    <testcase classname="Codenation.Challenge.QuoteServiceTest" name="Codenation.Challenge.QuoteServiceTest.Should_Returns_Any_Quote_When_Get_Any_Quote_By_Actor" time="0.0030000" />
+    <testcase classname="Codenation.Challenge.RandomServiceTest" name="Codenation.Challenge.RandomServiceTest.Should_Generate_Random_Number_When_Get_Random_Integer" time="0.0230000" />
+  </testsuite>
+</testsuites>
